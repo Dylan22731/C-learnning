@@ -16,7 +16,7 @@ void printf1(stu tmp)
 
 int main()
 {
-    stu s1 = { "颜欣怡",21,"女" };
+    stu s1 = { "",21,"女" };
     printf1(s1);
     return 0;
 }
